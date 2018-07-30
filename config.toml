@@ -1,4 +1,4 @@
-baseurl                 = "https://example.org/"               # Your domain name. Must end with "/"
+baseurl                 = "http://95.85.41.252/"               # FIXME Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "La Residencia austral"
 theme                   = "mas"
@@ -16,7 +16,7 @@ pygmentsCodefences      = true
     footerText          = "Footer text goes here."
 
 # Metadata
-    description         = "A RESIDENCY FIXME."            # Max 160 characters show in search results 
+    description         = "A RESIDENCY FIXME."            # Max 160 characters show in search results
     primaryImage        = "/FIXME.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 #[[params.mainMenu]]
@@ -30,4 +30,3 @@ pygmentsCodefences      = true
 #[[params.mainMenu]]
 #    link = "/about"
 #    text = "who is sam?"
-    
