@@ -1,6 +1,6 @@
-baseurl                 = "http://95.85.41.252/"               # FIXME Your domain name. Must end with "/"
+baseurl                 = "http://australresidency.org" # FIXME HTTPS Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "La Residencia austral"
+title                   = "The Austral Residency"
 theme                   = "mas"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -16,8 +16,8 @@ pygmentsCodefences      = true
     footerText          = ""
 
 # Metadata
-    description         = "A RESIDENCY FIXME."            # Max 160 characters show in search results
-    primaryImage        = "/FIXME.png"                     # Image that shows on Twitter cards and OpenGraph links
+    description         = "A place of refuge for scientists, writers, documentarians, artists, crafters, and anyone doing work that demands sustained attention in head, heart, and hand." # Max 160 characters show in search results
+    primaryImage        = "" # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
     link = "/what"
