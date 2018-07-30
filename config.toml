@@ -1,4 +1,4 @@
-baseurl                 = "http://australresidency.org" # FIXME HTTPS Your domain name. Must end with "/"
+baseurl                 = "http://australresidency.org/" # FIXME HTTPS Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "The Austral Residency"
 theme                   = "mas"
