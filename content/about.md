@@ -1,14 +1,10 @@
 ---
 title: "About"
-date: 2018-02-13T13:42:49-05:00
+date:
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way.
+Writing a grant? Starting (or finishing) a book? Editing a film? Experimenting with a new way of analyzing data — or of posing questions? Looking for new inspiration as a performer, composer, environmental artist, or chado practitioner? Simply burned out? Our goal is to create a place free of the noise of contemporary life, where the only urgent thing is the work itself — that, and the weather.
 
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+In return, we ask that you keep a notebook in whatever format and medium makes sense for you. It could be something you write, or daily recordings (of ambient sound, luminous flux, seismic activity), or a series of experiments in data analysis. It could be a row of cairns you build outside your cabin. Whatever form it takes, we ask that you leave a trace behind for those who come after.
 
-I also have a simple responsive gallery built with CSS grid. It'll look great on any screen, and all you have to do is provide a folder of images.
-
-I'm built and maintained by [Vicky Lai](https://vickylai.com). Here's her [GitHub](https://github.com/vickylai).
-
-This page uses the default `single.html` template.
+Our long-term goal is to be able to fund all our residents. In the near term, we commit to working with you to match funding to make your stay possible.
