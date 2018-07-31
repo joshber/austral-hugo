@@ -1,4 +1,4 @@
-baseurl                 = "http://australresidency.org/" # FIXME HTTPS Your domain name. Must end with "/"
+baseurl                 = "https://australresidency.org/" # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "The Austral Residency"
 theme                   = "mas"
@@ -13,7 +13,7 @@ pygmentsCodefences      = true
     homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = ""
+    footerText          = "CC BY-NC-ND 4.0" # FIXME: Add registered charity number
 
 # Metadata
     description         = "A place of refuge for scientists, writers, documentarians, artists, crafters, and anyone doing work that demands sustained attention in head, heart, and hand." # Max 160 characters show in search results
@@ -28,5 +28,13 @@ pygmentsCodefences      = true
     text = "who"
 
 #[[params.mainMenu]]
+#    link = "/apply"
+#    text = "apply"
+
+#[[params.mainMenu]] # For charity registration etc
 #    link = "/about"
-#    text = "who is sam?"
+#    text = "about"
+
+[[params.mainMenu]]
+    link = "/es"
+    text = "en español"

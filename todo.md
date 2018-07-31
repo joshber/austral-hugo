@@ -1,3 +1,7 @@
 # To do
 
-- Mailing list integration -- sign up to know when we launch
+- En español
+- Site icon
+- Images for home
+- Email addresses, MX integration
+- Bios
