@@ -1,6 +1,5 @@
 ---
 title: "Who We Are"
-date:
 ---
 
 We are three individuals with varied backgrounds in the cognitive and behavioral sciences who feel the time is ripe to try something new: a new way of practicing science, a new way of bringing science and other ways of looking at the world (art, craft, philosophy, ritual) into rapprochement — not through superficial collaboration but through a congruence of setting and mood.

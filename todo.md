@@ -1,7 +1,7 @@
 # To do
 
-- En español
-- Site icon
-- Images for home
 - Email addresses, MX integration
-- Bios
+- Bio sketches for "Who" page
+- Translation for "En español"
+- An image or two for the landing page
+- CREDIT FOR Site icon

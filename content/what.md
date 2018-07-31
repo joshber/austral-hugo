@@ -1,6 +1,5 @@
 ---
 title: "What We Intend"
-date:
 ---
 
 Writing a grant? Finishing a book? Editing a film? Experimenting with a new way of looking at data — or of posing questions? Looking for new inspiration as a performer, composer, environmental artist, or chado practitioner? Simply burnt out? Our goal is to create a place free of the noise of contemporary life, where the only urgent thing is the work itself — that, and the weather.
