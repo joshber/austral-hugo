@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Home"
 ---
 
 # The Austral Residency
