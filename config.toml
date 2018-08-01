@@ -9,15 +9,15 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
+    favicon             = "/favicon.ico"
     homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "CC BY-NC-ND 4.0" # FIXME: Add registered charity number
+    footerText          = "CC BY–NC–ND 4.0 · 2018" # FIXME: Add registered charity number
 
 # Metadata
     description         = "A place of refuge for scientists, writers, documentarians, artists, crafters, and anyone doing work that demands sustained attention in head, heart, and hand." # Max 160 characters show in search results
-    primaryImage        = "" # Image that shows on Twitter cards and OpenGraph links
+    primaryImage        = "/images/freeman-corcovado-viewed-from-quellon.png" # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
     link = "/what"
@@ -34,6 +34,10 @@ pygmentsCodefences      = true
 #[[params.mainMenu]] # For charity registration etc
 #    link = "/about"
 #    text = "about"
+
+[[params.mainMenu]]
+    link = "/credits"
+    text = "credits"
 
 [[params.mainMenu]]
     link = "/es"
