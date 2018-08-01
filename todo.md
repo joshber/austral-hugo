@@ -1,5 +1,5 @@
 # To do
 
-- Email addresses, MX integration
+- Check mail is working
 - Bio sketches for "Who" page
 - Translation for "En español"
