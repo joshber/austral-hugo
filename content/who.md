@@ -10,4 +10,4 @@ All three of us, in different ways, have drawn inspiration from the conventions 
 
 **Josh Berson** is an anthropologist. His work focuses on integrating an enactive (sensorimotor) view of cognition into a deep-historical perspective on niche construction. His first book, **Computable Bodies**, won the 2016 PROSE Award in Language and Linguistics. His next book, **Meat**, will appear in 2019, and **Lucidity** (a novel) and **The Scaffold** with luck in 2020. In 2018–19 he is an inaugural USC Berggruen Fellow at the Berggruen Institute in Los Angeles. In his spare time he makes [procedural sound](https://github.com/joshber/sndspc).
 
-**Daniel Margulies** bio goes here.
+**Daniel Margulies** is a tenured researcher with the Centre national de la recherche scientifique (CNRS) in Paris. After receiving his PhD from Humboldt University in Berlin, he led the Neuroanatomy & Connectivity Research Group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig. His research addresses principles of organization within the cerebral cortex and their implications for cognition.
