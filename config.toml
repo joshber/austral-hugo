@@ -39,6 +39,6 @@ pygmentsCodefences      = true
     link = "/credits"
     text = "credits"
 
-[[params.mainMenu]]
-    link = "/es"
-    text = "en español"
+#[[params.mainMenu]]
+#    link = "/es"
+#    text = "en español"

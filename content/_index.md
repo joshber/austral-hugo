@@ -12,4 +12,4 @@ We are building a circle of patrons to help us buy land and erect our first cabi
 
 [Who we are](/who)
 
-[En español](/es)
+<!--[En español](/es)-->
